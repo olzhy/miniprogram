@@ -1,0 +1,5 @@
+/**app.wxss**/
+.container {
+  height: 11.7143rem;
+  padding-bottom: 2.8571rem;
+}

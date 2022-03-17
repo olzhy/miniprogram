@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="banner">
+    <image src="cloud://leileiluoluo-1gzu0fn559e4fa3c.6c65-leileiluoluo-1gzu0fn559e4fa3c-1253317978/banner.png" style="object-fit: cover;width: 100%;height: 100%;"/>
+  </view>
+  <view class="intro">
+      <block>
+        <rich-text nodes="“大丈夫行事，当磊磊落落，如日月皎然。”——《晋书》" />
+        <rich-text nodes="<br>某姓闫，名磊磊，字浩然，山西代州人也。我是一名互联网从业者与生活记录者，我的网名“磊磊落落”取自《晋书》，勉励本人光明磊落做人做事。" />
+        <rich-text nodes="<br/>我的博客（leileiluoluo.com）是本人用于记录内心波澜，分享读书感想，思考人生哲学，关注社会百态，梳理计算机专业知识的纯原创站点。欢迎您的关注！" />
+        <rich-text nodes="<br><b>我的博客</b><br>https://leileiluoluo.com" />
+        <rich-text nodes="<br><b>我的信箱</b><br>leileiluoluo@leileiluoluo.com" />
+        <rich-text nodes="<br><b>我的GitHub</b><br>https://github.com/olzhy" />
+      </block>
+  </view>
+</view>
